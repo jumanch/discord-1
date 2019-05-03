@@ -2,7 +2,7 @@ import random
 
 pregunta = str(input("Escribe de que quieres comprobar: "))
 probabilidad= int(random.randint(0, 100))
-probabilidad= probabilidad-2
+probabilidad= probabilidad-3
 separador = "="
 
 def grafico():
